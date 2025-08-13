@@ -1,16 +1,16 @@
 <h1 align="center"> Hi there, I'm Biyanga  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Code+Explorer;Bug+Buster;Creative+Problem+Solver;Test+Automation+Learner;Full-Stack+Developer;Playlist-Driven+Coder" alt="Headline" />
     </div>
 
 <p align="center">
   <em>
     Hello, I am Biyanga Kalupahana a <b>second year</b> Software Engineering undergraduate at <a href="https://www.cinec.edu/"> <b>CINEC Maritime Campus</b></a>, Sri-Lanka. <br>
-    <b>Passionate about building high-quality, user-friendly and impactful software solutions.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> My interests lie in: <b>Quality Assurance Engineering</b> and <b>Full-Stack Development</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbspI’m <b>always eager to learn</b> new technologies, work on challenging projects and collaborate with other developers to craft innovative solutions. 
+    <b>Passionate about building high-quality, user-friendly and impactful software solutions.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> My interests lie in <b>Quality Assurance Engineering</b> and <b>Full-Stack Development</b>.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbspI’m <b>always eager to learn</b> new technologies, work on challenging projects and collaborate with other developers to craft innovative solutions. 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Every bug has a story; I’m here to write the happy ending." 📖</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
