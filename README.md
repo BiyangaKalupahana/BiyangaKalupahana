@@ -33,6 +33,7 @@
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -40,21 +41,36 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" alt="Postman"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" alt="Selenium"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 
 
 <br> <br> 
 
 ## :bar_chart: GitHub Stats
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BiyangaKalupahana&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biyanga streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BiyangaKalupahana&theme=dark&hide_border=false" /> 
+</td>
 
-[![Biyanga Kalupahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiyangaKalupahana&count_private=true&show_icons=true&theme=dark)](https://github.com/BiyangaKalupahana/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiyangaKalupahana&layout=compact&theme=dark)](https://github.com/BiyangaKalupahana/github-readme-stats)
-
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiyangaKalupahana&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
 <br>
 
 ## GitHub Tropies
