@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Biyanga Kalupahana a <b>second year</b> Software Engineering undergraduate at <a href="https://www.cinec.edu/"> <b>CINEC Maritime Campus</b></a>, Sri-Lanka. <br>
+    Hello, I am Biyanga Kalupahana a <b>third year</b> Software Engineering undergraduate at <a href="https://www.cinec.edu/"> <b>CINEC Maritime Campus</b></a>, Sri-Lanka. <br>
     <b>Passionate about building high-quality, user-friendly and impactful software solutions.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> My interests lie in <b>Quality Assurance Engineering</b> and <b>Full-Stack Development</b>.&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbspI’m <b>always eager to learn</b> new technologies, work on challenging projects and collaborate with other developers to craft innovative solutions. 
   </em> 
   <br>
